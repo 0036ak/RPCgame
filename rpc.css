@@ -1,0 +1,11 @@
+#my_header {
+    display:table;
+    
+    margin:20px; /* if you want header be center in it's parent */
+}
+#my_header div {
+    display:table-cell;
+    
+    padding:20px;
+    
+}
